@@ -1,8 +1,6 @@
 # FaceID
 This is an implementation of face detector and recognizer which can identify the face of the person showing on a webcam.
 
-Video Demo: https://www.youtube.com/watch?v=6nCVgQgsnSM
-
 
 Image preprocessing: face detection, alignment and resizing.
 Built a database containing embeddings of identity images
